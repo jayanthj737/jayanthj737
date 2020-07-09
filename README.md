@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### I am Jayanth Jayadevan, an Electrical Undergrad but a Computer Science Enthusiast.
-I shifted my concentration into Development in between my Undergrad studies and these are few of the Tech stacks, Programming Languages and Frameworks I love working on.
+I shifted my concentration into Software Development while I was doing my Undergrad studies in Electrical Engineering and these are few of the Tech stacks, Programming Languages and Frameworks I love working on.
 - ⚡ C++
 - ⚡ Python
 - ⚡ HTML CSS JAVA
