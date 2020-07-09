@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I am Jayanth Jayadevan, an Electrical Undergrad but a Computer Science Enthusiast.
+I shifted my concentration into Development in between my Undergrad studies and these are few of the Tech stacks, Programming Languages and Frameworks I love working on.
+- ⚡ C++
+- ⚡ Python
+- ⚡ HTML CSS JAVA
+- 🟢 NodeJS
+- 🟡 ExpressJS
+- 🔵 Flask
+- 🟢 MongoDb
+- 🟣 MySQL
+- 🟠 Tensorflow
+- 🔵 Dart - Flutter
+
+Have a look at my [Portfolio](http://jayanthjj.me/) 
+
+Also checkout my [Resume](https://drive.google.com/file/d/1DTmZ33rhFEd6PFiyCqLj2WldbsFqCBmV/view?usp=sharing)
