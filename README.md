@@ -24,8 +24,7 @@ I shifted my concentration into Software Development while I was doing my Underg
 - 🟠 Tensorflow
 - 🔵 Dart - Flutter
 
-Have a look at my [Portfolio](http://jayanthjj.me/) 
-
-Also checkout my [Resume](https://drive.google.com/file/d/1DTmZ33rhFEd6PFiyCqLj2WldbsFqCBmV/view?usp=sharing)
-
-Ideas and Opportunities? Please mail me at jayanthjayadevan98@gmail.com
+Find me on [LinkedIn](https://www.linkedin.com/in/jayanthjj/) !</br>
+Have a look at my [Portfolio](http://jayanthjj.me/). </br>
+Also checkout my [Resume](https://drive.google.com/file/d/1DTmZ33rhFEd6PFiyCqLj2WldbsFqCBmV/view?usp=sharing).</br>
+Ideas and Opportunities? Please mail me at jayanthjayadevan98@gmail.com !
